@@ -14,4 +14,3 @@ I'm a Junior Software Engineer, and an aspiring technical writer who is currentl
 
 ---
 
-| ------------- | ------------- |
